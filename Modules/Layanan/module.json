@@ -1,0 +1,11 @@
+{
+    "name": "Layanan",
+    "alias": "layanan",
+    "description": "Modul pengelolaan data layanan SPBE",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Layanan\\Providers\\LayananServiceProvider"
+    ],
+    "files": []
+}
